@@ -1,0 +1,5 @@
+import { Configuration } from './types';
+export declare function isString(text: any): text is string;
+export declare function isFunction(f: any): boolean;
+declare function getOptions(options?: string | Configuration): Configuration;
+export default getOptions;

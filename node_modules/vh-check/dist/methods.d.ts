@@ -1,0 +1,4 @@
+import { Sizes } from './types';
+export declare function noop(): void;
+export declare function computeDifference(): Sizes;
+export declare function redefineVhUnit(): Sizes;

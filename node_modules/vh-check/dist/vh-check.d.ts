@@ -1,0 +1,2 @@
+import { Configuration, Result } from './types';
+export default function vhCheck(options?: string | Configuration): Result;

@@ -1,0 +1,2 @@
+export declare function addListener(eventName: string, callback: EventListener): void;
+export declare function removeAll(): void;
