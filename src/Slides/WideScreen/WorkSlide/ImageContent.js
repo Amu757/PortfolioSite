@@ -4,7 +4,7 @@ import PropTypes from 'prop-types';
 import VoistrapImages from './ParallaxImages/VoistrapImages';
 import FastRetailingImages from './ParallaxImages/FastRetailingImages';
 import WhatsMyFoodImages from './ParallaxImages/WhatsMyFoodImages';
-import EyepImages from './ParallaxImages/EyepImages';
+// import EyepImages from './ParallaxImages/EyepImages';
 import TeslaImages from './ParallaxImages/TeslaImages';
 import LashicImages from './ParallaxImages/LashicImages';
 
@@ -81,7 +81,7 @@ class ImageContent extends Component {
           />
         </ImageBox>
         <ImageBox height={boxHeight}>
-          <EyepImages
+          <TeslaImages
             boxHeight={boxHeight}
             index={3}
             scrollPercent={scrollPercent}
@@ -90,7 +90,7 @@ class ImageContent extends Component {
           />
         </ImageBox>
         <ImageBox height={boxHeight}>
-          <TeslaImages
+          <WhatsMyFoodImages
             boxHeight={boxHeight}
             index={4}
             scrollPercent={scrollPercent}
@@ -99,18 +99,9 @@ class ImageContent extends Component {
           />
         </ImageBox>
         <ImageBox height={boxHeight}>
-          <WhatsMyFoodImages
-            boxHeight={boxHeight}
-            index={5}
-            scrollPercent={scrollPercent}
-            screenHeight={screenHeight}
-            scrollHeight={scrollHeight}
-          />
-        </ImageBox>
-        <ImageBox height={boxHeight}>
           <VoistrapImages
             boxHeight={boxHeight}
-            index={6}
+            index={5}
             scrollPercent={scrollPercent}
             screenHeight={screenHeight}
             scrollHeight={scrollHeight}

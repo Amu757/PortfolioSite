@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/PortfolioSite/static/css/main.9f2025a2.css",
+    "main.js": "/PortfolioSite/static/js/main.24ef758f.js",
+    "static/media/UQ.png": "/PortfolioSite/static/media/UQ.1e9dc0406bffaf540030.png",
+    "static/media/GU.png": "/PortfolioSite/static/media/GU.cf21bf298fd35132e3c8.png",
+    "static/media/GU2.png": "/PortfolioSite/static/media/GU2.f90b81d0eeb76ead8443.png",
+    "static/media/CustomerDetail.png": "/PortfolioSite/static/media/CustomerDetail.58f47e16071d6e8a0706.png",
+    "static/media/Task.png": "/PortfolioSite/static/media/Task.5eb0e89fee4d8f410135.png",
+    "static/media/Tyre.png": "/PortfolioSite/static/media/Tyre.12bfff0452a7939caae3.png",
+    "static/media/Lock.png": "/PortfolioSite/static/media/Lock.763b3a3d6c794ff58eae.png",
+    "static/media/Heat.png": "/PortfolioSite/static/media/Heat.bd87817193d8b1394081.png",
+    "static/media/Battery.png": "/PortfolioSite/static/media/Battery.5fb09e714a57d062a06f.png",
+    "static/media/Alert.png": "/PortfolioSite/static/media/Alert.82df0ae613c6ad3e1bab.png",
+    "static/media/Customers.png": "/PortfolioSite/static/media/Customers.e02f3adc132afc4709ff.png",
+    "static/media/Home.png": "/PortfolioSite/static/media/Home.246025ab18ad96919128.png",
+    "static/media/Restaurant.png": "/PortfolioSite/static/media/Restaurant.277bda1b3a0e3ef926f6.png",
+    "static/media/Meetings.png": "/PortfolioSite/static/media/Meetings.1825a6c148acd0178282.png",
+    "static/media/Avenir-Book-01.ttf": "/PortfolioSite/static/media/Avenir-Book-01.ab7aa26986df653dedc1.ttf",
+    "static/media/Avenir-Medium-09.ttf": "/PortfolioSite/static/media/Avenir-Medium-09.90ba4d31a83ca40b27d8.ttf",
+    "static/media/Avenir-Heavy-05.ttf": "/PortfolioSite/static/media/Avenir-Heavy-05.ef8835d185e784ae3f88.ttf",
+    "static/media/PLST.png": "/PortfolioSite/static/media/PLST.3dc3680dfeab5b9688ed.png",
+    "static/media/Iphone.png": "/PortfolioSite/static/media/Iphone.9f986370a2e993e17cf3.png",
+    "static/media/Avenir-Roman-12.ttf": "/PortfolioSite/static/media/Avenir-Roman-12.c0f2c1bfb99c316e4497.ttf",
+    "static/media/People.png": "/PortfolioSite/static/media/People.a76024422075ae9ead76.png",
+    "static/media/Avenir-Light-07.ttf": "/PortfolioSite/static/media/Avenir-Light-07.d7d158a298aa946d69ad.ttf",
+    "static/media/Tablet.png": "/PortfolioSite/static/media/Tablet.f449918875d1e16f27f9.png",
+    "static/media/Valencia.ttf": "/PortfolioSite/static/media/Valencia.982aa30178d00befd6f0.ttf",
+    "static/media/insta.svg": "/PortfolioSite/static/media/insta.61deed1ba8f170c294c80a372966bd1f.svg",
+    "static/media/mail.svg": "/PortfolioSite/static/media/mail.faca000c1aad5163b2d6e95ee27fc449.svg",
+    "static/media/git.svg": "/PortfolioSite/static/media/git.c5e25e2c7eac0fdf5d404b98491f6966.svg",
+    "static/media/twitter.svg": "/PortfolioSite/static/media/twitter.91acf50ab549ac25dded24a3929ab749.svg",
+    "static/media/linkedin.svg": "/PortfolioSite/static/media/linkedin.88cca3a11b1215b7b9741c88430a192f.svg",
+    "index.html": "/PortfolioSite/index.html",
+    "main.9f2025a2.css.map": "/PortfolioSite/static/css/main.9f2025a2.css.map",
+    "main.24ef758f.js.map": "/PortfolioSite/static/js/main.24ef758f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9f2025a2.css",
+    "static/js/main.24ef758f.js"
+  ]
+}
